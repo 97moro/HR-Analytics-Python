@@ -27,7 +27,6 @@ The project demonstrates practical data analysis skills using **Pandas**, **NumP
 ## 📸 Project Preview
 
 ![Project Preview](Images/notebook_preview.png)
-```
 
 ---
 
